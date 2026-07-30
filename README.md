@@ -25,6 +25,10 @@ A beginner Python project that manages student groups using Set operations.
 Python Club:
 Ali, Ahmed, Sara, John
 
+## Project Output
+
+![Program Output](Screenshot.png)
+
 Web Club:
 Ahmed, Sara, Mike, Emma
 
